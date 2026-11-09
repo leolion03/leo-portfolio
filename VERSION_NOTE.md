@@ -117,3 +117,14 @@ First complete homepage milestone.
 ### Navbar v1.1
 - Added mobile hamburger menu
 - Added responsive spacing
+
+## Homepage v1.3 — Motion Lab Added
+
+### Projects v1.2 — Motion Lab Showcase
+- Added Motion Lab project
+- Added live project URL support
+- Added Live Experience button
+- Added custom project focus labels
+- Added project metric labels
+- Improved project hover styling
+- Added explicit TypeScript Project type
